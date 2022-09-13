@@ -15,3 +15,5 @@ In later notebooks we will use improved methods for tuning.
    This method is much easier to code compared to the first method (manual) we discussed. In GridSearch method we 
    just need to select hyperparameters to tune and just give the values of search. For this purpose, ScikitLearn 
    library is used.
+   
+3) - 3_RandomSearchCV_v2.ipynb - This notebook discuss about tuning hyperparameters using RandomSearch method.
