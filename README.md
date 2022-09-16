@@ -17,3 +17,7 @@ In later notebooks we will use improved methods for tuning.
    library is used.
    
 3) - 3_RandomSearchCV_v2.ipynb - This notebook discuss about tuning hyperparameters using RandomSearch method.
+
+4) - 4_ImageDataPreparation_intro_opencv.ipynb - This notebook discusses about basic operations and image data preparations on OpenCV.
+
+
