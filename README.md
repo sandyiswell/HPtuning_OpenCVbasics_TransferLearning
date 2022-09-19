@@ -20,4 +20,8 @@ In later notebooks we will use improved methods for tuning.
 
 4) - 4_ImageDataPreparation_intro_opencv.ipynb - This notebook discusses about basic operations and image data preparations on OpenCV.
 
+5) - 5_filters.ipynb - Implementation of filter from scractch.
+
+6) - 6_padding.ipynb - The idea of padding. Padding Vs no Padding in convnets.
+
 
